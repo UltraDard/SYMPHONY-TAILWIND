@@ -1,2 +1,4 @@
 # SYMPHONY-TAILWIND
-Squellette ! 
+
+- npm run watch
+- symfony local:server:start
